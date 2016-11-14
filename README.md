@@ -1,2 +1,3 @@
 # OrdenacionBurbujaJAVA
-Arreglo de un vector por ordenacion Burbuja
+
+Ordenamiento de un arreglo por ordenamiento burbuja
